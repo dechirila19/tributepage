@@ -1,0 +1,45 @@
+body {
+  background-color: #EBEBEB;
+}
+
+#main {
+  
+}
+
+#title {
+  text-align: center;
+
+}
+
+#image {
+  display: block;
+  max-width: 500px;
+  margin: auto;
+  margin-bottom: 0.8cm;
+}
+
+#img-caption {
+  text-align: center;
+  font-size: 18px;
+  font-family: Georgia, Serif;
+  margin-bottom: 1.5cm;
+}
+
+#tribute-info {
+  text-align: center;
+}
+
+#tribute-link {
+  font-size: 18px;
+  font-family: Georgia, Serif;
+}
+
+p {
+  font-size: 20px;
+  line-height: 2;
+ 
+}
+
+img-div {
+
+}
